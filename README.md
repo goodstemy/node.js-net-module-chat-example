@@ -10,3 +10,4 @@ node client.js
 node client.js
 ```
 
+![](gif-example.gif)
